@@ -14,6 +14,6 @@ class Studen
 };
 
 int main(){
-    Studen abir(9, 15, 4.34);
+    Studen(9, 15, 4.34);
     return 0; 
 }
